@@ -4,12 +4,6 @@ body {
     padding: 0px;
 }
 
-.conteiner {
-    width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .tel {
     margin-left: auto;
     text-decoration: none;
@@ -167,7 +161,6 @@ h1 {
 .bouquet-of-flowers {
     width: 244px;
     height: 282px;
-    background: url(ce86a939437c9029739e83ad128e3d1b.png);
     filter: drop-shadow(30px 40px 40px rgba(255, 181, 181, 0.5));
 }
 
