@@ -153,7 +153,8 @@ ul {
     flex-wrap: wrap;
     justify-content: space-between;
     height: auto;
-    grid-row-gap: 62px
+    grid-row-gap: 62px;
+    margin-bottom: 110px;
 }
 
 .card-best-offer{
