@@ -301,3 +301,98 @@ ul {
     line-height: 130%;
     color: #212121;
 }
+
+.how-take-card-top{
+    /* display: flex; */
+    height: 280px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.how-take-card-text{
+    font-weight: 600;
+    font-size: 40px;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 70px;
+}
+
+.how-take-card-guide{
+    display: flex;
+    align-items: center;
+}
+
+.how-take-card-step-text{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+    color: #212121;
+}
+
+
+.how-take-card-step img{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.how-take-card-step{
+    margin-left: 120px;
+}
+
+.how-take-card-arrow{
+    margin-left: 120px;
+}
+
+.footer-bottom{
+    height: 160px;
+    background: #EFF2F5;
+    display: flex;
+}
+
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 37px;
+}
+
+.footer-info-text-column{
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+
+.footer-info-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    color: #424242;
+    text-decoration: none;
+    display: flex;
+    margin-bottom: 22px;
+    margin-top: 0px;
+}
+
+.footer-info-copyright{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 130%;
+    color: #424242;
+    margin: 0;
+    margin-bottom: 22px;
+}
+
+.footer-info-feedback{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 130%;
+    color: #424242;
+    margin-bottom: 22px;
+}
+
+.footer-info-text-column a{
+    text-decoration: none;
+    display: flex;
+    margin-bottom: 22px;
+}
