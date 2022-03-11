@@ -396,3 +396,44 @@ ul {
     display: flex;
     margin-bottom: 22px;
 }
+
+.debit-card-offer{
+    background: #EFF2F5;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.debit-card-offer-right{
+    width: 437px;
+    margin-right: 118px;
+}
+
+.debit-card-offer-main-text{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 130%;
+    color: #212121;
+    margin-bottom: 43px;
+    margin-top: 0px;
+}
+
+.debit-card-offer-secondary-text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 200%;
+    color: #424242;
+    margin-bottom: 42px;
+}
+
+.debit-cards-main-text{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
