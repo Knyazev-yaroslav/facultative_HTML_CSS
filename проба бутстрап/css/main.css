@@ -1,0 +1,13 @@
+.orange{
+    background-color: orange;
+    height: 500px;
+}
+
+.btn-red{
+    background-color: red;
+    color: blue
+}
+.pink{
+    background-color: pink;
+    border: 1px solid black;
+}
